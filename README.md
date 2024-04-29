@@ -14,6 +14,9 @@ Escolha uma cor predominante (if) e mostre:
 ✔ a quantidade de jogadores;
 ✔ a imagem do Brasão.
 
+LINK:
+https://ricardopra.github.io/A7-----Aplicando-conhecimento/
+
 Atenção! Não serão aceitas propriedades aplicadas em HTML5. A partir de agora, somente em CSS. Apesar disso, não delete seus arquivos. Eles serão utilizados ao longo de todas as aulas.
 
 ![image](https://github.com/ricardopra/A7-----Aplicando-conhecimento/assets/39959555/83da41df-57f5-4c5a-8a18-7fb44565d33a)
