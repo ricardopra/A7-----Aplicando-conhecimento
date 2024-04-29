@@ -9,7 +9,7 @@ let times = [
   {
     modalidade: "Futebol",
     nome: "Corinthians",
-    jogadores: 12,
+    jogadores: 11,
     cor: "preto",
     imagem: new Image(),
   },
